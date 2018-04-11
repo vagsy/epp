@@ -1,5 +1,4 @@
 ## express app
-----------
 
 安装所有依赖包：
     $ cd eapp 
